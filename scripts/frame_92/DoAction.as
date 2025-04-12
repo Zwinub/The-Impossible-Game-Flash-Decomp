@@ -1,0 +1,3 @@
+gotoAndStop("game");
+play();
+stopAllSounds();

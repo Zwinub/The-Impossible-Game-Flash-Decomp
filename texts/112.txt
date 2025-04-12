@@ -1,0 +1,3 @@
+Tap the back button or press D to 
+--- RECORDSEPARATOR ---
+delete the last flag you placed.

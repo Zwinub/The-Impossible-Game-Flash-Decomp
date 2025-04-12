@@ -1,0 +1,3 @@
+If you crash you'll respawn at the 
+--- RECORDSEPARATOR ---
+beginning of the level.

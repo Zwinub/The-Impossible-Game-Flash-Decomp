@@ -1,0 +1,3 @@
+In the Flash Version you can only use 
+--- RECORDSEPARATOR ---
+up to ten flags.

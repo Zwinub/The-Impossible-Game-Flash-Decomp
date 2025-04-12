@@ -1,0 +1,5 @@
+Click the flag button or press F to drop 
+--- RECORDSEPARATOR ---
+a flag and enter practice mode. If you 
+--- RECORDSEPARATOR ---
+crash you'll respawn at the last flag.
